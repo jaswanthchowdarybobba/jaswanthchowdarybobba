@@ -46,7 +46,8 @@ Enterprise intranet serving **500+ employees daily**, built from the ground up o
 - 📊 **8 custom SPFx web parts**: News Feed, Department Hub, Quick Links, Event Calendar, KPI Tracker, Org Directory, Weather, Announcements
 - 📈 **5 embedded Power BI dashboards** (Finance, HR, IT, Ops, Sales) — adopted as primary reporting by leadership
 - 📈 **~65% engagement increase** within 60 days of launch
- 
+  
+🔗 View Project
 ---
  
 ## 🛠️ Tech Stack
@@ -97,6 +98,8 @@ HR self-service portal with full Microsoft Graph API integration for live employ
 - 🔄 Live employee profiles, reporting hierarchy & team calendar via Graph API — replaced static org chart
 - ⏱️ Reduced HR request resolution from **5 days → 1 day**
 - 👥 **300+ employees onboarded** with **85%+ adoption rate** within first month
+
+🔗 View Project
  
 ---
  
@@ -109,6 +112,8 @@ Metadata-driven DMS replacing manual document workflows with automated, complian
 - ⏱️ **~60% faster** document retrieval through structured metadata taxonomy
 - 🔄 **5 multi-stage approval workflows** — cycle time from 3 days → **under 4 hours**
 - 📦 Automated archival pipeline processing **500+ documents/month** via Azure Runbook
+
+🔗 View Project
  
 ---
  
@@ -121,7 +126,9 @@ Full lifecycle migration of 3 legacy SharePoint environments to SharePoint Onlin
 - 📋 Converted **100%** of legacy InfoPath forms (12 total) → Power Apps Canvas Apps
 - ♻️ Rebuilt 10 Nintex & SharePoint Designer workflows as Power Automate cloud flows — **~35% faster** execution
 - 🔒 Enforced RBAC governance across **15+ site collections**
- 
+
+🔗 View Project
+
 ---
 
 ## 📊 Impact Snapshot
