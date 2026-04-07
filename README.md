@@ -186,6 +186,6 @@ Have a SharePoint modernization project, migration, or Power Platform build in m
  
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BCF2,100:0078D4&height=100&section=footer" />
  
-*"Building enterprise SharePoint solutions that people actually want to use."*
+💡 *Building enterprise SharePoint solutions that people actually use.*
  
 </div>
