@@ -1,8 +1,8 @@
 <div align="center">
 
-# Bobba S Jaswanth Chowdary
+# 👋Jaswanth Chowdary
 
-### SharePoint Developer · SPFx & React · Power Platform · Microsoft 365
+### SharePoint Developer · SPFx (React + TypeScript) · Power Platform · Microsoft 365
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaswanthchowdarybobba/)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bobbajasswanthchowdary@gmail.com)
@@ -11,7 +11,17 @@
 </div>
  
 ---
- 
+
+ ## ⚡ TL;DR (Why Hire Me?)
+
+- 🚀 Built intranet platforms serving **500+ daily users**
+- ⚡ Improved performance by **~40% (8s → 4.8s)**
+- 📈 Increased engagement by **65% in 60 days**
+- 🔄 Automated **20+ business workflows** (3 days → under 4 hours)
+- 📊 Delivered **Power BI dashboards** used by leadership
+
+---
+
 ## 👋 About Me
  
 > **SharePoint & Power Platform Developer** with **5+ years** of enterprise-scale Microsoft 365 experience — building intranet portals, automating workflows, and migrating legacy environments for **500+ user organizations**.
@@ -22,6 +32,20 @@
 - 📊 Delivered **Power BI dashboards** adopted as primary reporting tools by senior leadership
 - 🔗 Deep expertise in **Microsoft Graph API** for live org data, calendar integration & more
 - 📍 Based in India · Open to remote enterprise projects
+ 
+---
+
+## 🏆 Featured Project
+ 
+### 🏢 Intranet Portal with Dashboard & Analytics
+> *SharePoint Online · SPFx · React · TypeScript · Power BI · MS Graph API · Azure Functions · Fluent UI*
+ 
+Enterprise intranet serving **500+ employees daily**, built from the ground up on SharePoint Online with SPFx.
+ 
+- ⚡ **~40% faster** page load vs. legacy SharePoint 2013
+- 📊 **8 custom SPFx web parts**: News Feed, Department Hub, Quick Links, Event Calendar, KPI Tracker, Org Directory, Weather, Announcements
+- 📈 **5 embedded Power BI dashboards** (Finance, HR, IT, Ops, Sales) — adopted as primary reporting by leadership
+- 📈 **~65% engagement increase** within 60 days of launch
  
 ---
  
@@ -62,20 +86,8 @@
  
 ---
  
-## 🚀 Featured Projects
- 
-### 🏢 Intranet Portal with Dashboard & Analytics
-> *SharePoint Online · SPFx · React · TypeScript · Power BI · MS Graph API · Azure Functions · Fluent UI*
- 
-Enterprise intranet serving **500+ employees daily**, built from the ground up on SharePoint Online with SPFx.
- 
-- ⚡ **~40% faster** page load vs. legacy SharePoint 2013
-- 📊 **8 custom SPFx web parts**: News Feed, Department Hub, Quick Links, Event Calendar, KPI Tracker, Org Directory, Weather, Announcements
-- 📈 **5 embedded Power BI dashboards** (Finance, HR, IT, Ops, Sales) — adopted as primary reporting by leadership
-- 📈 **~65% engagement increase** within 60 days of launch
- 
----
- 
+## 🚀 Key Projects
+  
 ### 👩‍💼 Employee Service Portal
 > *SPFx · React · TypeScript · Power Apps · Power Automate · MS Graph API · Fluent UI · PnP JS*
  
@@ -110,6 +122,15 @@ Full lifecycle migration of 3 legacy SharePoint environments to SharePoint Onlin
 - ♻️ Rebuilt 10 Nintex & SharePoint Designer workflows as Power Automate cloud flows — **~35% faster** execution
 - 🔒 Enforced RBAC governance across **15+ site collections**
  
+---
+
+## 📊 Impact Snapshot
+
+- 👥 500+ daily users
+- ⚡ 40% performance improvement
+- 📈 65% engagement growth
+- 🔄 20+ automated workflows
+
 ---
  
 ## 📜 Certifications
