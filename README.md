@@ -141,19 +141,7 @@ Full lifecycle migration of 3 legacy SharePoint environments to SharePoint Onlin
 | 🏅 SharePoint Online & M365 Admin | Microsoft |
  
 ---
- 
-## 📊 GitHub Stats
- 
-<div align="center">
-
-![Contributions](https://img.shields.io/badge/Contributions-4-0078D4?style=for-the-badge&logo=github&logoColor=white)
-![Repos](https://img.shields.io/badge/Repositories-1-00BCF2?style=for-the-badge&logo=github&logoColor=white)
-![Streak](https://img.shields.io/badge/Current_Streak-1_day-orange?style=for-the-badge&logo=github&logoColor=white)
-
-</div>
- 
----
- 
+  
 ## 🎯 What I Build
  
 ```
