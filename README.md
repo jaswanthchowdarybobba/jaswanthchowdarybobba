@@ -124,13 +124,11 @@ Full lifecycle migration of 3 legacy SharePoint environments to SharePoint Onlin
 ## 📊 GitHub Stats
  
 <div align="center">
- 
-![Jaswanth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jaswanthchowdarybobba&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0078D4&icon_color=00BCF2)
- 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jaswanthchowdarybobba&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0078D4)
- 
-![GitHub Streak](https://streak-stats.demolab.com?user=jaswanthchowdarybobba&theme=tokyonight&hide_border=true&background=0D1117&ring=0078D4&fire=00BCF2&currStreakLabel=00BCF2)
- 
+
+![Contributions](https://img.shields.io/badge/Contributions-4-0078D4?style=for-the-badge&logo=github&logoColor=white)
+![Repos](https://img.shields.io/badge/Repositories-1-00BCF2?style=for-the-badge&logo=github&logoColor=white)
+![Streak](https://img.shields.io/badge/Current_Streak-1_day-orange?style=for-the-badge&logo=github&logoColor=white)
+
 </div>
  
 ---
