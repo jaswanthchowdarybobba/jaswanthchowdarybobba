@@ -169,11 +169,10 @@ Full lifecycle migration of 3 legacy SharePoint environments to SharePoint Onlin
  
 ---
  
-## 💬 Get In Touch
+## 💬 Contact
  
 <div align="center">
  
-Have a SharePoint modernization project, migration, or Power Platform build in mind?
  
 [![LinkedIn](https://img.shields.io/badge/Let's_Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaswanthchowdarybobba/)
 [![Email](https://img.shields.io/badge/Send_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bobbajasswanthchowdary@gmail.com)
