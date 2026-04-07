@@ -1,11 +1,13 @@
 <div align="center">
- 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0078D4,100:00BCF2&height=200&section=header&text=Bobba%20S%20Jaswanth%20Chowdary&fontSize=36&fontColor=ffffff&fontAlignY=38&desc=SharePoint%20Developer%20%7C%20SPFx%20%26%20React%20%7C%20Power%20Platform%20%7C%20Microsoft%20365&descAlignY=58&descSize=16" />
- 
+
+# Bobba S Jaswanth Chowdary
+
+### SharePoint Developer · SPFx & React · Power Platform · Microsoft 365
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaswanthchowdarybobba/)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bobbajasswanthchowdary@gmail.com)
 [![Microsoft 365](https://img.shields.io/badge/Microsoft_365-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)](https://www.microsoft.com)
- 
+
 </div>
  
 ---
