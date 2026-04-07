@@ -22,7 +22,7 @@
 
 ---
 
-## 👋 About Me
+## 🧠 About Me
  
 > **SharePoint & Power Platform Developer** with **5+ years** of enterprise-scale Microsoft 365 experience — building intranet portals, automating workflows, and migrating legacy environments for **500+ user organizations**.
  
