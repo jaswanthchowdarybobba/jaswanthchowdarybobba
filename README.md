@@ -1,8 +1,8 @@
 <div align="center">
 
-# 👋Jaswanth Chowdary
+# 👋Hi, I'm Jaswanth Chowdary
 
-### SharePoint Developer · SPFx (React + TypeScript) · Power Platform · Microsoft 365
+### 🚀 Enterprise SharePoint Architect | Power Platform Specialist | SPFx (React) Expert
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaswanthchowdarybobba/)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bobbajasswanthchowdary@gmail.com)
@@ -12,7 +12,7 @@
  
 ---
 
- ## ⚡ TL;DR (Why Hire Me?)
+ ## ⚡ TL;DR
 
 - 🚀 Built intranet platforms serving **500+ daily users**
 - ⚡ Improved performance by **~40% (8s → 4.8s)**
