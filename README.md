@@ -47,7 +47,7 @@ Enterprise intranet serving **500+ employees daily**, built from the ground up o
 - 📈 **5 embedded Power BI dashboards** (Finance, HR, IT, Ops, Sales) — adopted as primary reporting by leadership
 - 📈 **~65% engagement increase** within 60 days of launch
   
-🔗 [View Project](https://github.com/jaswanthchowdarybobba/enterprise-intranet-portal)
+[![View Project](https://img.shields.io/badge/View_Repository-0078D4?style=flat-square&logo=github&logoColor=white)](https://github.com/jaswanthchowdarybobba/enterprise-intranet-portal)
 
 ---
 
@@ -100,8 +100,8 @@ HR self-service portal with full Microsoft Graph API integration for live employ
 - ⏱️ Reduced HR request resolution from **5 days → 1 day**
 - 👥 **300+ employees onboarded** with **85%+ adoption rate** within first month
 
-🔗 [View Project](https://github.com/jaswanthchowdarybobba/employee-service-portal)
- 
+[![View Project](https://img.shields.io/badge/View_Repository-0078D4?style=flat-square&logo=github&logoColor=white)](https://github.com/jaswanthchowdarybobba/sharepoint-employee-service-portal)
+
 ---
  
 ### 📂 Document Management System
@@ -114,7 +114,7 @@ Metadata-driven DMS replacing manual document workflows with automated, complian
 - 🔄 **5 multi-stage approval workflows** — cycle time from 3 days → **under 4 hours**
 - 📦 Automated archival pipeline processing **500+ documents/month** via Azure Runbook
 
-🔗 [View Project](https://github.com/jaswanthchowdarybobba/document-management-system)
+[![View Project](https://img.shields.io/badge/View_Repository-0078D4?style=flat-square&logo=github&logoColor=white)](https://github.com/jaswanthchowdarybobba/sharepoint-document-management-system)
  
 ---
  
@@ -128,7 +128,7 @@ Full lifecycle migration of 3 legacy SharePoint environments to SharePoint Onlin
 - ♻️ Rebuilt 10 Nintex & SharePoint Designer workflows as Power Automate cloud flows — **~35% faster** execution
 - 🔒 Enforced RBAC governance across **15+ site collections**
 
-🔗 [View Project](https://github.com/jaswanthchowdarybobba/migration-modernization)
+[![View Project](https://img.shields.io/badge/View_Repository-0078D4?style=flat-square&logo=github&logoColor=white)](https://github.com/jaswanthchowdarybobba/sharepoint-migration-modernization)
 
 ---
 
@@ -166,21 +166,23 @@ Full lifecycle migration of 3 legacy SharePoint environments to SharePoint Onlin
 ---
  
 ## 💬 Contact
- 
-<div align="center">
- 
- 
-[![LinkedIn](https://img.shields.io/badge/Let's_Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaswanthchowdarybobba/)
-[![Email](https://img.shields.io/badge/Send_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bobbajasswanthchowdary@gmail.com)
- 
+
+<div align="center"> 
+<table width="100%">
+<tr>
+<td align="center" style="padding:12px; background:#f3f2f1;">
+
+**Bobba S Jaswanth Chowdary** · SharePoint Developer · India
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaswanthchowdarybobba/)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:bobbajaswanthchowdary@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/jaswanthchowdarybobba)
+
+*Built with the spirit of SharePoint — because a SharePoint developer's profile should feel like home.*
+
+</td>
+</tr>
+</table>
 </div>
- 
----
- 
-<div align="center">
- 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BCF2,100:0078D4&height=100&section=footer" />
- 
-💡 *Building enterprise SharePoint solutions that people actually use.*
- 
 </div>
+
